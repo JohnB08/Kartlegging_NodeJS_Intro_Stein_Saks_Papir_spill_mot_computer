@@ -1,7 +1,9 @@
 
 
 
-/* Vi bruker ES6 / ESNext (Ecmascript) standarden for å importere moduler.  */
+/* Vi bruker ES6 / ESNext (Ecmascript) standarden for å importere moduler. 
+    Husk at vi endret en linje i den generte package.json filen vår for å oppnå dette, vi la til linjen "type":"module".
+    I første eksempel brukte vi mer Node spesifikk syntax, aka Required(). Men som dere så i react templaten er imports mye mer standard syntax.  */
 
 /* PromtEngine representerer et sett med javascriptkode andre har skrevet, men som vi kan ta i bruk ved å laste ned pakken via npm */
 import PromptSync from "prompt-sync";
