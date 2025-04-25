@@ -1,0 +1,1 @@
+Dette Node.js-programmet viser hvordan man kan lage et enkelt Stein-Saks-Papir-spill samtidig som det demonstrerer grunnleggende Node.js-konsepter, inkludert pakkeadministrasjon med npm (ved bruk av prompt-sync), ES6-modulimportering, og håndtering av inn-/ut-data gjennom Node-runtimen.
